@@ -1,13 +1,5 @@
 {
-  "homepage": "https://tejeswar2.github.io/wapp",
   "dependencies": {
     "dotenv": "^16.3.1"
-  },
-  "scripts": {
-    "predeploy":"npm run build",
-    "delpoy": "gh-pages -d build"
-  },
-  "devDependencies": {
-    "gh-pages": "^6.1.1"
   }
 }
