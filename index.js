@@ -50,5 +50,5 @@ async function checkWeather(city){
 
 
 searchBtn.addEventListener("click",()=>{
-    checkWeather(searchBox.value);  //takes sbox value n executes cheWethr()
+    checkWeather(searchBox.value);  
 })
